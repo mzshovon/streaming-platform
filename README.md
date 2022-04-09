@@ -1,4 +1,4 @@
-<p align="center"><a href="https://reactjs.com" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ironhack.com%2Fen%2Fweb-development%2Fwhat-is-react-js&psig=AOvVaw0gV3uDBfRc0YX_uQ7C6ISv&ust=1649602460174000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKDBoJueh_cCFQAAAAAdAAAAABAJ" width="400"></a></p>
+<p align="center"><a href="https://reactjs.com" target="_blank"><img src="https://www.datocms-assets.com/14946/1638186862-reactjs.png?auto=format" width="400"></a></p>
 
 ## About React Streamer
 
